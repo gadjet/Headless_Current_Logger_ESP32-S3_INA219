@@ -1,11 +1,14 @@
+
 # ESP32 Headless Solar Current Logger
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hardware: Seeed Studio Xiao ESP32 S3](https://img.shields.io/badge/Hardware-Xiao%20ESP32%20S3-blue)](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
 
 A headless, web-configurable current logger designed to monitor solar panel charging in 12V vehicle systems. This device is designed to replace a standard fuse in a vehicle's fuse box, providing real-time and historical data on energy production and consumption.
+| Top | Bottom | 
+|-----------|--------------|
+| <img width="216" height="120" alt="3D_PCB1_2026-05-03" src="https://github.com/user-attachments/assets/a752cda5-615b-4cd4-8f89-23f12833fb76" />| <img width="216" height="120" alt="3D_PCB1a_2026-05-03" src="https://github.com/user-attachments/assets/747fa24b-4832-4d43-b8d5-ecabebdd28be" />|
 
-![Project Preview](PCB_TOP_Layer.jpg)
 
 ## 🚀 Key Features
 
@@ -71,16 +74,11 @@ Key flags at the top of the `.ino` sketch:
 5. **Monitor:** Use the live chart to watch solar performance. Green indicates the battery is being charged; Red indicates a draw.
 6. **Data Retrieval:** Scroll to the "Stored Logs" section to view charts of previous sessions or download the `.csv` files for deep analysis.
 
-## 📁 Repository Structure
+##  Webpage Layout
 
-```text
-├── Headless_Solar_Logger/
-│   └── Headless_Solar_Logger.ino  # Main firmware
-├── SCH_Schematic1_2026-04-22.pdf  # Hardware schematic
-├── PCB_TOP_Layer.jpg              # PCB visual reference (Top)
-├── PCB_Bottom_Layer.jpg           # PCB visual reference (Bottom)
-└── GEMINI.md                      # Project developer notes
-```
+<img width="1440" height="6240" alt="WebPage" src="https://github.com/user-attachments/assets/facb4953-11d3-4beb-b582-676e353e536e" />
+
+
 
 ## ⚖️ License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (or just enjoy the code!).
