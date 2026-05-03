@@ -5,6 +5,8 @@
 [![Hardware: Seeed Studio Xiao ESP32 S3](https://img.shields.io/badge/Hardware-Xiao%20ESP32%20S3-blue)](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html)
 
 A headless, web-configurable current logger designed to monitor solar panel charging in 12V vehicle systems. This device is designed to replace a standard fuse in a vehicle's fuse box, providing real-time and historical data on energy production and consumption.
+It can also be used to monitor any low voltage DC current upto 3 Amps. 
+
 | Top | Bottom | 
 |-----------|--------------|
 | <img width="216" height="120" alt="3D_PCB1_2026-05-03" src="https://github.com/user-attachments/assets/a752cda5-615b-4cd4-8f89-23f12833fb76" />| <img width="216" height="120" alt="3D_PCB1a_2026-05-03" src="https://github.com/user-attachments/assets/747fa24b-4832-4d43-b8d5-ecabebdd28be" />|
