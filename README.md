@@ -77,7 +77,7 @@ Key flags at the top of the `.ino` sketch:
 6. **Data Retrieval:** Scroll to the "Stored Logs" section to view charts of previous sessions or download the `.csv` files for deep analysis.
 
 ##  Webpage Layout
-<img width="1440" height="6240" alt="WebPage" src="https://github.com/user-attachments/assets/facb4953-11d3-4beb-b582-676e353e536e" />
+<img width="400" height="1366" alt="WebPage (Medium)" src="https://github.com/user-attachments/assets/077ce096-7fb9-4eb4-8454-041ecb19483d" />
 
 ## Parts assembly drawing with the 3D printed case
 <img width="776" height="480" alt="Assy_Drawing" src="https://github.com/user-attachments/assets/cb6bf52e-b6a5-4fdc-be49-b3d9ef56d1f0" />
